@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Web 向 CTFer | 网络安全 | 云安全 | 渗透测试
+  Web 向 CTFer |  网络安全 |  云安全 |  渗透测试
   <br>
   Email: <a href="mailto:1686960364@qq.com">1686960364@qq.com</a>
 </p>
