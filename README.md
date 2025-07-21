@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Web 向 CTFer  网络安全  云安全  渗透测试
+  Web 向 CTFer / 网络安全 / 云安全
   <br>
   Email: <a href="mailto:1686960364@qq.com">1686960364@qq.com</a>
 </p>
@@ -15,7 +15,7 @@
 
 - 专注于 Web 安全、云安全、漏洞分析与渗透测试  
 - 热爱 CTF，偏向 Web 和综合安全方向  
-- 喜欢用 Python 编写自动化安全工具
+- 擅长用 Python 编写自动化安全工具
 - 熟练使用 Flask、Django 构建安全测试平台  
 - 正在进行一些个人项目开发与研究分享
 
@@ -23,14 +23,19 @@
 
 ### Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
-  <img src="https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+网络安全方向  
+Web 向 CTFer，专注渗透测试与漏洞分析，熟悉主流 Web 漏洞及其利用方式。  
+
+具备一定代码审计能力，能阅读常见语言的后端逻辑并挖掘业务逻辑漏洞。  
+
+熟悉常见云安全问题，包括对象存储泄露、函数配置错误、元数据服务利用等。  
+
+了解容器环境中 SSRF、RCE、逃逸等攻击方式，掌握基础检测与防御思路。  
+
+开发能力  
+主要使用 Python 编写自动化漏洞利用工具与扫描器，使用 Flask 快速构建测试环境。  
+
+同时还对C/C++略知一二
 
 ---
 
