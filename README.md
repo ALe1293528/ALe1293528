@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi,+I'm+ALe;Web+Security+Researcher;Cloud+Security+Explorer;Python+%2B+C+Developer;Always+Learning" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  Web 向 CTFer / 网络安全 / 云安全
-  <br>
-  Email: <a href="mailto:1686960364@qq.com">1686960364@qq.com</a>
-</p>
-
----
 
 ### About Me
 
