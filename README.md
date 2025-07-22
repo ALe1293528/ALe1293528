@@ -28,19 +28,14 @@
 
 - 同时还对C/C++略知一二
 
----
-
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALe1293528&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALe1293528&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALe1293528&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALe1293528&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <a href="https://github.com/ALe1293528?tab=stars">
+    <img src="https://img.shields.io/github/stars/ALe1293528?style=social" height="50" />
+  </a>
+</div>
 
----
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
